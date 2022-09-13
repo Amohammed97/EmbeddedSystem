@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "platform_types.h": "c",
-        "intctrl.h": "c",
-        "port.h": "c"
-    }
-}
